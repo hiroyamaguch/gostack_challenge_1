@@ -1,2 +1,1 @@
-# gostack-challenge1
-GoStack - Desafio: Conceitos do Node.js
+# GoStack - Desafio: Conceitos do Node.js
