@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/hiroyamaguch/gostack_challenge_1/blob/main/LICENSE)
 
 # Sobre o projeto
-Este é o back-end desenvolvido para o desafio Conceitos do Node.js do curso GoStack da Rocketseat.
+Este é o back-end desenvolvido para o desafio Conceitos do Node.js do curso GoStack da Rocketseat. O front-end dessa aplicação está disponível [aqui](https://github.com/hiroyamaguch/gostack_challenge_2).
 
 # Tecnologias utilizadas
 - JS
