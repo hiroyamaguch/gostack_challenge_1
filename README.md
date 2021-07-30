@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GoBarber Logo" src="https://github.com/hiroyamaguch/assets/blob/de8f5bb7126d7a27664f154dfdaffa782d36b38d/gostack/gostack.png">
+  <img alt="GoStack Logo" src="https://github.com/hiroyamaguch/assets/blob/de8f5bb7126d7a27664f154dfdaffa782d36b38d/gostack/gostack.png">
 </p>
 
 <h3 align="center">
